@@ -1,3 +1,4 @@
+CoordMode, Mouse, Screen
 #p::
 MouseGetPos , x , y
-ToolTip, %x%and%y%
+ToolTip, %x%`, %y%
